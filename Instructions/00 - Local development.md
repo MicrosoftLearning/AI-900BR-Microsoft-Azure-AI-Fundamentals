@@ -13,7 +13,7 @@ Se estiver usando seu computador local, siga essas etapas para configurar o ambi
 > pip install ipython jupyter matplotlib pillow requests azure-cognitiveservices-vision-computervision azure-cognitiveservices-vision-customvision azure-cognitiveservices-vision-face azure-cognitiveservices-language-textanalytics azure.cognitiveservices.speech azure_ai_formrecognizer 
 
 ### Visual Studio Code 
-1. Caso ainda não tenha o Visual Studio Code, [faça o download aqui]](https://code.visualstudio.com/Download). Depois da instalação, inicie o Visual Studio Code e, na guia Extensões (CTRL+SHIFT+X), procure e instale a extensão **Python** da Microsoft.
+1. Caso ainda não tenha o Visual Studio Code, [faça o download aqui](https://code.visualstudio.com/Download). Depois da instalação, inicie o Visual Studio Code e, na guia Extensões (CTRL+SHIFT+X), procure e instale a extensão **Python** da Microsoft.
 
-2. No Visual Studio Code, abra um novo terminal, digite **git clone https://github.com/MicrosoftLearning/mslearn-ai900** e selecione *enter*. 
+2. No Visual Studio Code, abra um novo terminal, digite **git clone https://github.com/MicrosoftLearning/AI-900BR-Microsoft-Azure-AI-Fundamentals** e selecione *enter*. 
 
