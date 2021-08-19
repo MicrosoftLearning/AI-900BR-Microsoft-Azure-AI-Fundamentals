@@ -4,8 +4,10 @@ lab:
 ---
 
 ## Instruções
-Neste laboratório, veremos as diretrizes para a IA responsável.
+Vamos dar uma olhada nos princípios de IA responsável da Microsoft.
 
-1.	Acesse a [demonstração Diretrizes para a interação entre humanos e a IA](https://aka.ms/hci-demo)
-2.	Selecione as cartas de cada monte e analise os cenários de exemplo
-3.	Identifique os princípios de IA responsável representados pelo exemplo
+1.	Acesse [Entender a IA responsável](https://docs.microsoft.com/learn/modules/get-started-ai-fundamentals/7-understand-responsible-ai?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.wwl.get-started-with-artificial-intelligence-on-azure).
+2.	Revise a descrição de cada um dos seis princípios.
+3.	Consegue identificar como os princípios são distintos entre si?
+
+Você também pode saber mais sobre IA responsável na Microsoft [aqui](https://www.microsoft.com/ai/responsible-ai).
