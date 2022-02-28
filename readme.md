@@ -1,3 +1,11 @@
+**Important Notice!**
+
+This repo was replaced by a [new repo](https://github.com/MicrosoftLearning/AI-900-AIFundamentals.pt-BR) on 4 February 2022 . We're making this change to improve the localized version of this content and reduce the delta between English and localized content updates. 
+After a short interval, this repo will be archived.
+
+**Contributions**
+
+At this time, we are not accepting external contributions to this repo. If you have suggestions or spot any errors, please create a pull request or report an issue on the [new repo](https://github.com/MicrosoftLearning/AI-900-AIFundamentals.pt-BR).
 # Princípios Básicos de IA do Microsoft Azure - Exercícios
 
 Este repositório contém os exercícios de laboratório prático do curso da Microsoft [AI-900 *Princípios Básicos de IA do Microsoft Azure*](https://docs.microsoft.com/pt-br/learn/certifications/courses/ai-900t00) e os [módulos individuais do Microsoft Learn](https://docs.microsoft.com/learn/certifications/azure-ai-fundamentals). Os laboratórios foram desenvolvidos para acompanhar os materiais de aprendizagem e permitir que você pratique com as tecnologias descritas por eles. 
